@@ -1,0 +1,6 @@
+bootstrap css documentation: http://bootstrapdocs.com/v3.2.0/docs/css/#type-inline-text
+
+adding space between paragraphs:
+http://community.wikidot.com/forum/t-369761/how-do-i-add-space-between-paragraphs-using-css
+http://www.boutell.com/newfaq/creating/paragraphspacing.html
+
